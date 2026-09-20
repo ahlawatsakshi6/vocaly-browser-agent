@@ -2,7 +2,11 @@
 
 Vocaly is a voice-first web automation workspace built with Next.js. Describe a browser task in natural language, speak it through the browser microphone, or type it directly. Vocaly starts a real cloud browser session, shows the agent's progress, and lets a person take over before any irreversible action.
 
-> This repository currently contains the Vocaly web application. A short product video will be added to the demo section when it is available.
+## Project Video Prototype
+
+<video src="./project-video-prototype.mp4" controls width="100%"></video>
+
+[Download or open the project video prototype](./project-video-prototype.mp4)
 
 ## What It Does
 
@@ -140,12 +144,6 @@ Runs `select 1` against PostgreSQL and returns HTTP 200 when the database is rea
 ## Safety Model
 
 Vocaly is designed for human-supervised automation. The browser agent can research, compare, navigate, and fill forms, but its server-side system prompt instructs it to stop on the final confirmation screen before it can complete a purchase, booking, message, or other irreversible action. The user can inspect the live session and take over.
-
-## Demo Video
-
-Coming soon. Add the hosted video link here when it is ready:
-
-`[Watch the Vocaly demo](YOUR_VIDEO_URL)`
 
 ## Project Structure
 
