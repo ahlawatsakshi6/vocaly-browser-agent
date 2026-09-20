@@ -4,9 +4,9 @@ Vocaly is a voice-first web automation workspace built with Next.js. Describe a 
 
 ## Project Video Prototype
 
-<video src="./project-video-prototype.mp4" controls width="100%"></video>
+**[▶ Watch the project video prototype](https://github.com/ahlawatsakshi6/vocaly-browser-agent/raw/refs/heads/main/Untitled%20design.mp4)**
 
-[Download or open the project video prototype](./project-video-prototype.mp4)
+[Open the video file on GitHub](https://github.com/ahlawatsakshi6/vocaly-browser-agent/blob/main/Untitled%20design.mp4)
 
 ## What It Does
 
